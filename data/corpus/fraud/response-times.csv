@@ -1,0 +1,6 @@
+tipo_reclamo,canal,plazo_maximo_dias_habiles,ampliable,observaciones
+operacion_no_reconocida_tarjeta,todos,10,si,ampliable 15 días hábiles si depende de la marca o del comercio
+cobro_duplicado_banco,todos,15,no,no se amplía por ser un error del propio banco
+cobro_comisiones_intereses,todos,15,si,se puede reclamar hasta 1 año después del cobro
+contracargo_exterior,"agencia, telefono",45,no,depende de la respuesta del comercio del exterior
+reposicion_no_entregada,"telefono, app",5,no,tarjeta digital disponible mientras tanto
