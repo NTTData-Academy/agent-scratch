@@ -1,0 +1,93 @@
+[
+  {
+    "source": "card-blocking-policy-2022.md",
+    "doc_type": "policy",
+    "product": null,
+    "valid_from": "2022-01-01",
+    "valid_until": "2024-12-31"
+  },
+  {
+    "source": "card-blocking-policy.docx",
+    "doc_type": "policy",
+    "product": null,
+    "valid_from": "2025-01-01",
+    "valid_until": null
+  },
+  {
+    "source": "card-replacement.docx",
+    "doc_type": "procedure",
+    "product": null,
+    "valid_from": "2025-01-01",
+    "valid_until": null
+  },
+  {
+    "source": "claims-regulation.pdf",
+    "doc_type": "regulation",
+    "product": null,
+    "valid_from": "2025-01-01",
+    "valid_until": null
+  },
+  {
+    "source": "credit-card-chargebacks.html",
+    "doc_type": "procedure",
+    "product": "tarjeta_credito",
+    "valid_from": "2025-01-01",
+    "valid_until": null
+  },
+  {
+    "source": "digital-security-and-phishing.md",
+    "doc_type": "guide",
+    "product": null,
+    "valid_from": "2025-01-01",
+    "valid_until": null
+  },
+  {
+    "source": "fraud-and-claims-faq.md",
+    "doc_type": "faq",
+    "product": null,
+    "valid_from": "2025-01-01",
+    "valid_until": null
+  },
+  {
+    "source": "fraud-glossary.md",
+    "doc_type": "glossary",
+    "product": null,
+    "valid_from": "2025-01-01",
+    "valid_until": null
+  },
+  {
+    "source": "internal-notice-cafeteria.html",
+    "doc_type": "notice",
+    "product": null,
+    "valid_from": "2025-03-01",
+    "valid_until": null
+  },
+  {
+    "source": "response-times.csv",
+    "doc_type": "table",
+    "product": null,
+    "valid_from": "2025-01-01",
+    "valid_until": null
+  },
+  {
+    "source": "sample-cases.pdf",
+    "doc_type": "cases",
+    "product": null,
+    "valid_from": "2025-01-01",
+    "valid_until": null
+  },
+  {
+    "source": "service-channels.html",
+    "doc_type": "channel",
+    "product": null,
+    "valid_from": "2025-01-01",
+    "valid_until": null
+  },
+  {
+    "source": "unrecognized-charges-procedure.md",
+    "doc_type": "procedure",
+    "product": null,
+    "valid_from": "2025-01-01",
+    "valid_until": null
+  }
+]
